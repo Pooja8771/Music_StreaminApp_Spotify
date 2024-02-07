@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Music_StreaminApp_Spotify/static/css/main.545d20c7.css",
+    "main.js": "/Music_StreaminApp_Spotify/static/js/main.22820044.js",
+    "static/media/image1.png": "/Music_StreaminApp_Spotify/static/media/image1.34b8fd6efdc3dbf30923.png",
+    "index.html": "/Music_StreaminApp_Spotify/index.html",
+    "main.545d20c7.css.map": "/Music_StreaminApp_Spotify/static/css/main.545d20c7.css.map",
+    "main.22820044.js.map": "/Music_StreaminApp_Spotify/static/js/main.22820044.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545d20c7.css",
+    "static/js/main.22820044.js"
+  ]
+}
